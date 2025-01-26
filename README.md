@@ -23,9 +23,17 @@ Este proyecto es una aplicación simple que permite realizar un sorteo de "amigo
 - Navegador web actualizado (Chrome, Brave, Edge).
 - Editor de código (Visual Studio Code).
 
+## Tecnologías utilizadas
+
+- HTML5
+- CSS3
+- JavaScript
+
 ### Pasos para usar la aplicación
 
-1. **Crear el repositorio en Github**:
-
+1. **Conectar el repositorio local con GitHub**
+2. **Actualizar los archivos**
+3. **Agregar los archivos, confirmar los cambios**
+4. **Subir los cambios al repositorio remoto con gitPush.**
   
    
