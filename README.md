@@ -2,7 +2,7 @@
 
 ## 📖 Descripción
 
-Este proyecto es una aplicación simple que permite realizar un sorteo de "amigo secreto". Los usuarios pueden agregar nombres a una lista y, con un solo clic, sortear un nombre al azar como el "amigo secreto". Este proyecto está diseñado para practicar conceptos básicos de lógica de programación con JavaScript asignado por el programa Oracle Next Education.
+Este proyecto es una aplicación simple que permite realizar un sorteo de "amigo secreto". Los usuarios pueden agregar nombres a una lista y, con un solo clic, sortear un nombre al azar como el "amigo secreto". Este proyecto está diseñado para practicar conceptos básicos de lógica de programación con JavaScript asignado por Alura Latam.
 
 ---
 
